@@ -1,0 +1,11 @@
+
+dataset:
+train:
+FEMALE.TXT : 50个女生的身高、体重数据
+MALE.TXT : 50个男生的身高、体重数据
+test:
+test1.txt : 35个同学的身高、体重、性别数据（15个女生、20个男生）
+text2.txt : 300个同学的身高、体重、性别数据（50个女生、250个男生）
+label : 1 m
+label : 2 f
+

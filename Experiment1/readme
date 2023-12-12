@@ -1,0 +1,12 @@
+
+python 3.10
+classfy gender to two class
+model : Bayes
+feature : h, w
+chose feature : (1)h
+                (2)w
+                (3)h, w
+
+最大似然估计 -> u, o2, E
+最小错误率
+最小风险
